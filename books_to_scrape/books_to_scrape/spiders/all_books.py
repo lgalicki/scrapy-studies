@@ -16,7 +16,6 @@ class AllBooksSpider(CrawlSpider):
     )
 
     def parse_item(self, response):
-        print(response)
         item = dict()
         item['book_name'] = response.xpath('//h1/text()').get()
         item['price'] = response.xpath('//p[@class="price_color"]/text()').get()
