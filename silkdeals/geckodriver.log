@@ -1,0 +1,348 @@
+1581625310679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHOoqFE"
+*** You are running in headless mode.
+1581625312518	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581625312599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581625312599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581625312599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581625312599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581625314946	Marionette	INFO	Listening on port 44075
+1581625314991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581625321797	Marionette	INFO	Stopped listening on port 44075
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 200: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 117: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581625834807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUUNAQn"
+*** You are running in headless mode.
+1581625835270	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581625835354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581625835354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581625835354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581625835354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581625839865	Marionette	INFO	Listening on port 44855
+1581625839921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581625847649	Marionette	INFO	Stopped listening on port 44855
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581626093203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemlv8P7"
+*** You are running in headless mode.
+1581626093896	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581626093980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581626093981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581626093981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581626093981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581626097026	Marionette	INFO	Listening on port 40139
+1581626097116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581626105824	Marionette	INFO	Stopped listening on port 40139
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() A request was aborted, for example through a call to IDBTransaction.abort.
+1581626168231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJMRSY0"
+*** You are running in headless mode.
+1581626168764	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581626168847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581626168847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581626168847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581626168847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581626172409	Marionette	INFO	Listening on port 33513
+1581626172442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581626180692	Marionette	INFO	Stopped listening on port 33513
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1581626265775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqNhGJU"
+*** You are running in headless mode.
+1581626266305	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581626266389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581626266389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581626266389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581626266389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581626269171	Marionette	INFO	Listening on port 34845
+1581626269192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581626277013	Marionette	INFO	Stopped listening on port 34845
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+1581626493639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNYlU02"
+*** You are running in headless mode.
+1581626494163	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581626494245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581626494245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581626494245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581626494246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581626497332	Marionette	INFO	Listening on port 46621
+1581626497353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581626508362	Marionette	INFO	Stopped listening on port 46621
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+1581626616081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2AwkQp"
+*** You are running in headless mode.
+1581626616547	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581626616629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581626616629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581626616629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581626616629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581626619230	Marionette	INFO	Listening on port 35715
+1581626619290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581626628567	Marionette	INFO	Stopped listening on port 35715
+1581626710788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5nvvz"
+*** You are running in headless mode.
+1581626712267	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581626712348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581626712348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581626712348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581626712348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581626714933	Marionette	INFO	Listening on port 37275
+1581626715001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581626729045	Marionette	INFO	Stopped listening on port 37275
+1581627757587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileywbmx0"
+*** You are running in headless mode.
+1581627758043	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581627758124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581627758124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581627758124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581627758124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581627761094	Marionette	INFO	Listening on port 38203
+1581627761103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581627778295	Marionette	INFO	Stopped listening on port 38203
+1581627836336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePzpcMZ"
+*** You are running in headless mode.
+1581627836836	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581627836920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581627836920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581627836920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581627836920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581627839741	Marionette	INFO	Listening on port 41883
+1581627839751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581627849562	Marionette	INFO	Stopped listening on port 41883
+1581627928888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJMjkb7"
+*** You are running in headless mode.
+1581627929384	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581627929466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581627929467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581627929467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581627929467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581627931899	Marionette	INFO	Listening on port 38287
+1581627932001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581627941037	Marionette	INFO	Stopped listening on port 38287
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+1581629507183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefAAOAC"
+*** You are running in headless mode.
+1581629507630	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581629507714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581629507714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581629507714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581629507714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581629510506	Marionette	INFO	Listening on port 43511
+1581629510594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581629547051	Marionette	INFO	Stopped listening on port 43511
+1581629616299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesA485Q"
+*** You are running in headless mode.
+1581629616845	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581629616933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581629616933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581629616933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581629616933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581629618706	Marionette	INFO	Listening on port 43899
+1581629618813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581629640703	Marionette	INFO	Stopped listening on port 43899
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581629788498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelQ2p5U"
+*** You are running in headless mode.
+1581629789152	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581629789235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581629789235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581629789236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581629789236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581629791108	Marionette	INFO	Listening on port 33057
+1581629791211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581629809580	Marionette	INFO	Stopped listening on port 33057
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581630521032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMi46N3"
+*** You are running in headless mode.
+1581630521582	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581630521668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581630521668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581630521668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581630521669	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581630523821	Marionette	INFO	Listening on port 34383
+1581630523841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+1581630564276	Marionette	INFO	Stopped listening on port 34383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581630604246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUGyNn7"
+*** You are running in headless mode.
+1581630605953	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581630606051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581630606051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581630606052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581630606052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581630609209	Marionette	INFO	Listening on port 36625
+1581630609261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+1581630644268	Marionette	INFO	Stopped listening on port 36625
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581630804101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuNwksw"
+*** You are running in headless mode.
+1581630804545	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581630804630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581630804630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581630804630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581630804630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581630807421	Marionette	INFO	Listening on port 45281
+1581630807514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+1581630844719	Marionette	INFO	Stopped listening on port 45281
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1581631018787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebaqr3X"
+*** You are running in headless mode.
+1581631019321	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581631019406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581631019406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581631019406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581631019406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581631022011	Marionette	INFO	Listening on port 39703
+1581631022097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202001101133/wrap.js, line 8: unreachable code after return statement
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+JavaScript error: https://slickdeals.net/dtm/82/c892f1eac160eb3408344e556adf4907856f9e5d/s-code-contents-d6ea987a8569dff1e793a4d74add837133983eb1.js line 1 > Function, line 3: TypeError: s._tpDST[d.getFullYear(...)] is undefined
+1581631067773	Marionette	INFO	Stopped listening on port 39703
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5167: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
