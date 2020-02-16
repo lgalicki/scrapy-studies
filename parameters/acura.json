@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Chevrolet A10 2.5 De Luxe Cd 12V Álcool 2P Manual",
+    "brand": "Acura",
+    "model": "Legend",
+    "version": "2.5 De Luxe Cd 12V Álcool 2P Manual",
+    "year_fabrication": 1980,
+    "year_model": 1980,
+    "odometer": 55858,
+    "transmission": "Automática",
+    "doors": 2,
+    "armored": "N",
+    "color": "Laranja",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "price": 799868.0,
+    "comment": null,
+    "fipe_percent": null,
+    "url": "https://www.webmotors.com.br/comprar/acura/legend/2.5-de-luxe-cd-12v-álcool-2p-manual/2-portas/1980/26558511?pos=a26558511m:&np=1"
+  },
+  {
+    "title": "Acura Legend 3.5 Sedan V6 24V Gasolina 4P Automático",
+    "brand": "Acura",
+    "model": "Legend",
+    "version": "3.5 Sedan V6 24V Gasolina 4P Automático",
+    "year_fabrication": 1997,
+    "year_model": 1998,
+    "odometer": 100,
+    "transmission": "Automática",
+    "doors": 4,
+    "armored": "N",
+    "color": "Bronze",
+    "city": "São Paulo",
+    "state": "SP",
+    "price": 100000.0,
+    "comment": null,
+    "fipe_percent": 395,
+    "url": "https://www.webmotors.com.br/comprar/acura/legend/3.5-sedan-v6-24v-gasolina-4p-automático/4-portas/1997-1998/27186208?pos=a27186208m:&np=1"
+  }
+]
