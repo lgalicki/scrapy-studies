@@ -41,22 +41,6 @@ ROBOTSTXT_OBEY = False
 # Override the default request headers:
 #DEFAULT_REQUEST_HEADERS = {
 DEFAULT_REQUEST_HEADERS = {
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Accept-Language': 'en-US,en;q=0.9,gl;q=0.8,pt;q=0.7',
-    'Cache-Control': 'max-age=0',
-    'Connection': 'keep-alive',
-    'Content-Length': '40307',
-    'Content-Type': 'application/x-www-form-urlencoded',
-    'Cookie': 'cl_b=4|50aa2a9ef4941324678e05adf553530eca92fb86|1581979865O5RZI',
-    'Host': 'accounts.craigslist.org',
-    'Origin': 'https://accounts.craigslist.org',
-    'Referer': 'https://accounts.craigslist.org/login',
-    'Sec-Fetch-Dest': 'document',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-Site': 'same-origin',
-    'Sec-Fetch-User': '?1',
-    'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.100 Chrome/80.0.3987.100 Safari/537.36'
 }
 

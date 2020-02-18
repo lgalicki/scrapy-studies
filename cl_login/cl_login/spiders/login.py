@@ -27,13 +27,11 @@ class LoginSpider(scrapy.Spider):
 
         yield FormRequest.from_response(response=response,
                                         formxpath='//form[@class="loginform"]',
-                                        callback=self.after_login)
+                                        callback=self.after_login,
+                                        formdata=self.form_data)
 
     def after_login(self, response):
-        print('---------------------')
-        print(response.body)
-        print('---------------------')
-        email = response.xpath('//header[@class="account-header"]/a[2]/text()').extract_first()
+        email = response.xpath('//header[@class="account-header"]/a[2]/text()').get()
         yield{
             'email': email
             }
