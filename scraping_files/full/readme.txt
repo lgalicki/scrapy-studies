@@ -1,0 +1,1 @@
+Files were downloaded in this folder. I deleted them because there's no point in keeping them since these were just tests, and not capturing of valuable information.
